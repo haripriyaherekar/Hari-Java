@@ -36,7 +36,7 @@ public class TestDemo7 {
 			System.out.println("invalid");
 		}
 		}
-
+		sc.close();
 	}
 
 }

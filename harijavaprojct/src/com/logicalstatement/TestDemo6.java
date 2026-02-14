@@ -1,7 +1,7 @@
 package com.logicalstatement;
 
 import java.util.Scanner;
-
+//swtich case
 public class TestDemo6 {
 
 	public static void main(String[] args) {

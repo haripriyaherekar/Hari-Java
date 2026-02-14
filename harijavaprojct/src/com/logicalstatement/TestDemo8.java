@@ -22,7 +22,7 @@ public class TestDemo8 {
 		case "/" -> result =a / b;
 		default -> System.out.println("invalid");
 		}
-
+		sc.close();
 	}
 	
 }
